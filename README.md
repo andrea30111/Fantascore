@@ -1,2 +1,3 @@
-# Fantascore
-Fantascore
+# Fantascore 
+
+Fantascore, il readme dell'applicazione
